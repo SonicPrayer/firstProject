@@ -1,0 +1,14 @@
+{
+  "name": "react-first-project",
+  "version": "1.0.0",
+  "description": "React First Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maxim Ivanov",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
